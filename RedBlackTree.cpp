@@ -6,7 +6,7 @@
 #include <string>
 #include <utility>
 
-// Additional implementation assistance: OpenAI Codex, November 7, 2026.
+// Additional implementation assistance: OpenAI ChatGPT, November 6, 2026.
 // Copy nodes directly to preserve both the original shape and colors.
 RedBlackTree::RBTNode* RedBlackTree::CopySubtree(const RBTNode* node, RBTNode* parent) {
     if (node == nullptr) return nullptr;

@@ -35,18 +35,7 @@ in [RedBlackTreeTests.cpp](./RedBlackTreeTests.cpp). The read-only attachments
 were not edited.
 
 [RedBlackTree.h](./RedBlackTree.h) defines the public API and private node type.
-[RedBlackTree.cpp](./RedBlackTree.cpp) implements the algorithms. `Remove()` is
+[RedBlackTree.cpp](./RedBlackTree.cpp) implements the algorithms. 
+`Remove()` is
 reserved for Part 2. The existing destructor is retained to release owned nodes.
-Substantial AI assistance is acknowledged in source comments.
-
-## Submission checklist
-
-- Run `make test` and `make valgrind`.
-- Review the implementation and practice explaining it in your own words.
-- Record a 3–5 minute video with your voice/face and the relevant code visible.
-- Commit and push the source, header, Makefile, tests, and documentation to your
-  public GitHub repository.
-- Submit the repository link and your video on Canvas.
-
-Creating/publishing the repository and recording/uploading the video are separate
-submission steps; these files do not constitute those submissions.
+AI assistance is acknowledged in source comments.
